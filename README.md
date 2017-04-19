@@ -1,4 +1,7 @@
-# test coverage for  [sanitize-filename (v1.6.1)](https://github.com/parshap/node-sanitize-filename#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sanitize-filename.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sanitize-filename) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sanitize-filename.svg)](https://travis-ci.org/npmtest/node-npmtest-sanitize-filename)
+# npmtest-sanitize-filename
+
+#### basic test coverage for  [sanitize-filename (v1.6.1)](https://github.com/parshap/node-sanitize-filename#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sanitize-filename.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sanitize-filename) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sanitize-filename.svg)](https://travis-ci.org/npmtest/node-npmtest-sanitize-filename)
+
 #### Sanitize a string for use as a filename
 
 [![NPM](https://nodei.co/npm/sanitize-filename.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sanitize-filename)
